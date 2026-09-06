@@ -54,6 +54,10 @@ const insekt = {
 <p align="center"><b><a href="https://github.com/insekt1024/xistance-panel">Xistance Panel</a></b> — self-hosted tunnel manager (Backhaul / FRP / GOST / SSH), Next.js 16 + Prisma, EN/FA.</p>
 
 <p align="center">
+  <a href="https://github.com/insekt1024/xistance-panel"><img loading="lazy" decoding="async" width="140" src="assets/xistance-logo.png" alt="Xistance logo"/></a>
+</p>
+
+<p align="center">
   <a href="https://github.com/insekt1024/xistance-panel"><img loading="lazy" decoding="async" width="480" src="assets/card-xistance.svg" alt="xistance-panel"/></a><br/>
   <img src="https://img.shields.io/github/stars/insekt1024/xistance-panel?style=flat-square&labelColor=0d1117&color=0d1117" alt="stars"/>
   <img src="https://img.shields.io/github/forks/insekt1024/xistance-panel?style=flat-square&labelColor=0d1117&color=0d1117" alt="forks"/>
