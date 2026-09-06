@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="200" viewBox="0 0 640 200" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, monospace">
+  <defs>
+    <radialGradient id="xorb1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FF007F" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#FF007F" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="xorb2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00FF9D" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#00FF9D" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="xglass" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0.04"/>
+    </linearGradient>
+    <filter id="xsoft" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="35"/>
+    </filter>
+    <filter id="xglow" x="-200%" y="-200%" width="500%" height="500%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect x="2" y="2" width="636" height="196" rx="18" fill="#0D1117"/>
+  <ellipse cx="560" cy="40" rx="130" ry="80" fill="url(#xorb1)" filter="url(#xsoft)"/>
+  <ellipse cx="90" cy="170" rx="130" ry="80" fill="url(#xorb2)" filter="url(#xsoft)"/>
+  <rect x="2" y="2" width="636" height="196" rx="18" fill="url(#xglass)"/>
+  <rect x="2" y="2" width="636" height="196" rx="18" fill="none" stroke="#FF007F" stroke-opacity="0.4" stroke-width="1.5"/>
+  <line x1="30" y1="3.5" x2="610" y2="3.5" stroke="#FFFFFF" stroke-opacity="0.3" stroke-width="1.2" stroke-linecap="round"/>
+
+  <!-- repo icon + name -->
+  <g transform="translate(36,34)">
+    <path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-8.75A2.5 2.5 0 0 1 2 11.5v-9Zm11.5-1.5h-8.75a1 1 0 0 0-1 1v9c0 .138.021.271.06.393h9.19V1Z" fill="#7C3AED"/>
+    <path d="M4.5 1h8.75v12.5h-8.75a1 1 0 0 1-1-1v-9a1 1 0 0 1 1-1Z" fill="none" stroke="#7C3AED" stroke-width="0"/>
+  </g>
+  <text x="64" y="50" font-size="23" font-weight="700"><tspan fill="#8B949E">insekt1024 / </tspan><tspan fill="#00FF9D" filter="url(#xglow)">xistance-panel</tspan></text>
+  <text x="36" y="82" font-size="15" fill="#8B949E">Self-hosted tunnel manager — Backhaul / FRP /</text>
+  <text x="36" y="104" font-size="15" fill="#8B949E">GOST / SSH • Next.js 16 + Prisma • EN/FA</text>
+
+  <!-- footer -->
+  <circle cx="44" cy="152" r="7" fill="#3178C6"/>
+  <text x="58" y="158" font-size="15" fill="#C9D1D9">TypeScript</text>
+  <g transform="translate(200,143)">
+    <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z" fill="#FF007F"/>
+  </g>
+  <text x="222" y="158" font-size="15" fill="#C9D1D9">self-hosted</text>
+  <text x="360" y="158" font-size="15" fill="#00FF9D" filter="url(#xglow)">➤ Enter the Hive</text>
+  <circle cx="600" cy="152" r="5" fill="#00FF9D" filter="url(#xglow)"/>
+</svg>

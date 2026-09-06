@@ -54,7 +54,9 @@ const insekt = {
 <p align="center"><b><a href="https://github.com/insekt1024/xistance-panel">Xistance Panel</a></b> — self-hosted tunnel manager (Backhaul / FRP / GOST / SSH), Next.js 16 + Prisma, EN/FA.</p>
 
 <p align="center">
-  <a href="https://github.com/insekt1024/xistance-panel"><img loading="lazy" decoding="async" src="https://github-readme-stats.vercel.app/api/pin/?username=insekt1024&repo=xistance-panel&theme=tokyonight&hide_border=false&border_color=FF007F30&border_radius=12&bg_color=0D1117E6&title_color=00FF9D&icon_color=7C3AED&text_color=C9D1D9&cache_seconds=86400" alt="xistance-panel"/></a>
+  <a href="https://github.com/insekt1024/xistance-panel"><img loading="lazy" decoding="async" width="480" src="assets/card-xistance.svg" alt="xistance-panel"/></a><br/>
+  <img src="https://img.shields.io/github/stars/insekt1024/xistance-panel?style=flat-square&labelColor=0d1117&color=0d1117" alt="stars"/>
+  <img src="https://img.shields.io/github/forks/insekt1024/xistance-panel?style=flat-square&labelColor=0d1117&color=0d1117" alt="forks"/>
 </p>
 
 | Module | What it does |
@@ -72,15 +74,14 @@ const insekt = {
 ## 📊 Stats
 
 <p align="center">
-  <img loading="lazy" decoding="async" width="420" src="https://github-readme-stats.vercel.app/api?username=insekt1024&show_icons=true&theme=tokyonight&hide_border=false&border_color=00FF9D2E&border_radius=12&bg_color=0D1117E6&title_color=00FF9D&icon_color=7C3AED&text_color=C9D1D9&count_private=true&include_all_commits=true&cache_seconds=86400" alt="stats"/><br/>
-  <img loading="lazy" decoding="async" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=insekt1024&layout=compact&theme=tokyonight&hide_border=false&border_color=7C3AED40&border_radius=12&bg_color=0D1117E6&title_color=00FF9D&text_color=C9D1D9&langs_count=6&cache_seconds=86400" alt="langs"/>
+  <img loading="lazy" decoding="async" width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=insekt1024&theme=tokyonight" alt="stats"/><br/>
+  <img loading="lazy" decoding="async" width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=insekt1024&theme=tokyonight" alt="langs"/>
 </p>
 
 <details>
-<summary><b>🏆 streak & trophies</b></summary>
+<summary><b>🔥 streak</b></summary>
 <p align="center">
   <img loading="lazy" width="420" src="https://streak-stats.demolab.com?user=insekt1024&theme=tokyonight&hide_border=true&background=0D1117E6&stroke=00FF9D&ring=7C3AED&fire=FF007F" alt="streak"/>
-  <img loading="lazy" width="420" src="https://github-profile-trophy.vercel.app/?username=insekt1024&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=4" alt="trophies"/>
 </p>
 </details>
 
