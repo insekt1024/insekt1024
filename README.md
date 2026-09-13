@@ -2,7 +2,7 @@
 
 <!-- Header Animation -->
 <a href="https://github.com/insekt1024">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Parsa;Computer+Engineering+Student;Software+Developer;Ambient+%26+Trap+Music+Artist" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+INSEKT;Computer+Engineering+Student;Software+Developer;" alt="Typing Animation" />
 </a>
 
 <p align="center">
