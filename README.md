@@ -23,8 +23,8 @@
   
 | 🦇 **Identity** | 🧠 **Focus** | 🎵 **Side Quests** |
 | :---: | :---: | :---: |
-| 20yo / CompEng Student | Flutter, Python & Node.js | Ambient Music & Gaming (MMORPG) |
-| Local AI (Ollama) | Server Config (Nginx/Ubuntu) | Studying German (A2) |
+| 20yo / CompEng Student | Flutter, Python, Full-Stack Web Development | Ambient Music & Gaming (MMORPG) |
+| Local AI (Ollama) | Server Config (Nginx/Ubuntu) | Studying German (B2) |
 
 </div>
 
